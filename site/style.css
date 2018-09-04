@@ -17,3 +17,15 @@ img {
 	display: inline-block;
 	text-align: center;
 }
+.arms {
+	display: flex;
+	position: relative;
+	justify-content: center;
+	align-items: center;
+}
+.parts {
+	margin-bottom: 10px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
